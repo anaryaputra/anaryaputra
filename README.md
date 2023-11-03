@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile !
 
-[![logo](https://res.cloudinary.com/drahmssud/image/upload/v1698212409/App_Logo_ddfbc58233_e99b4e3d51_44bb27c1e5.png 'Anarya Putra')][website]
+<div align='center'>
+    <img src='https://res.cloudinary.com/drahmssud/image/upload/v1698212409/App_Logo_ddfbc58233_e99b4e3d51_44bb27c1e5.png' href='https://www.anaryaindika.com' title='Anarya Putra' />
+</div>
 
 ## Hey There!
 
