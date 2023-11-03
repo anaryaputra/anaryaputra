@@ -45,11 +45,11 @@ I'm Anarya, software engineer / fullstack engineer from 🇮🇩 Indonesia. Curr
 
 ![Hits](https://hits.sh/github.com/anaryaputra/hits.svg?label=Profile%20Views)<br/><br/>
 <img src='https://github-profile-trophy.vercel.app/?username=anaryaputra&rank=SSS,SS,S,AAA,AA,A,B&column=3&margin-w=15&margin-h=15&theme=darkhub' width='400' /><br/><br />
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaryaputra&theme=github_dark' width='500' />
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaryaputra&theme=github_dark&utcOffset=7' width='500' />
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaryaputra&theme=github_dark' width='500' />
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaryaputra&theme=github_dark' width='500' />
-<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaryaputra&theme=github_dark' width='1000' />
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anaryaputra&theme=github_dark' width='400' />
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaryaputra&theme=github_dark&utcOffset=7' width='400' />
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaryaputra&theme=github_dark' width='400' />
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anaryaputra&theme=github_dark' width='400' />
+<img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaryaputra&theme=github_dark' width='800' />
 
 ## My Personal Portfolio Website
 
