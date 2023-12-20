@@ -28,6 +28,7 @@ I'm Anarya, software engineer / fullstack engineer from 🇮🇩 Indonesia. Curr
 [![Magento Badge](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=fff&style=flat-square 'Magento')][magento]
 [![CodeIgniter Badge](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff&style=flat-square 'CodeIgniter')][codeigniter]
 [![Java Badge](https://img.shields.io/badge/Java-3A75B0?style=flat-square&logo=openjdk&logoColor=white 'Java')][java]
+[![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)][prisma]
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square 'MySQL')][mysql]
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square 'MongoDB')][mongodb]
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat-square 'GraphQL')][graphql]
@@ -97,6 +98,7 @@ I'm Anarya, software engineer / fullstack engineer from 🇮🇩 Indonesia. Curr
 [npm]: https://www.npmjs.com/
 [photoshop]: https://www.adobe.com/products/photoshop.html
 [php]: https://www.php.net/
+[prisma]: https://www.prisma.io/
 [railway]: https://railway.app/
 [reactjs]: https://react.dev/
 [sass]: https://sass-lang.com/
